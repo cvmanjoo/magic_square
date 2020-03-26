@@ -1,0 +1,6 @@
+.vscode/launch.json
+.vscode/tasks.json
+main.dSYM/Contents/Info.plist
+main.dSYM/Contents/Resources/DWARF/main
+MagicSquare.code-workspace
+.DS_Store
